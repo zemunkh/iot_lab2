@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/zemunkh/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/zemunkh/Documents/Arduino/libraries/**",
+                "/Applications/Arduino.app/Contents/Java/libraries/**",
+                "/Users/zemunkh/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.4/**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ]
+        }
+    ]
+}
